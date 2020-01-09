@@ -1,0 +1,62 @@
+#login-container {
+    background-color:rgba(255,255,255,0.8);
+    width: 70%;
+    height: 90%;
+    margin: auto;
+    border-radius: 15px;
+    box-shadow: black 0px 0px 10px;
+}
+
+#login-brand{
+    background-color: aliceblue;
+    width: 40%;
+    height: 100%;
+    float: left;
+}
+
+#login-form{
+    background-color: gray;
+    width: 60%;
+    height: 100%;
+    float: right;
+}
+
+#login-brand div{
+    padding: 30px;
+    
+}
+#login-brand div h1{
+    color: palegoldenrod;
+}
+#login-brand div h3{
+    color: violet;
+}
+#login-from{
+    width: 60%;
+    height: 100%;
+    float: right;   
+}
+#login-from > div h2{
+    color: brown (0, 132, 255);
+}
+#login-from  input{
+    width: 90%;
+    font-size: 16px;
+    padding: 10px;
+    border: solid 1px lightcoral;
+    border-radius: 5px;
+    margin: auto;
+}
+#login-from button{
+    width: 85%;
+    font-size: 16px;
+    background-color: blue;
+    color: wheat;
+    padding: 10px;
+    border: solid 1px blue;
+    border-radius: 25px;
+}
+.social-from-div {
+    margin-top: 5px;
+    text-align: center;
+}
